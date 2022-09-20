@@ -16,5 +16,5 @@ Back-end: Java, Spring Boot, PostgreSQL, JUnit, Mockito, Docker
 
 ## Documentation
 
-For further click [here]()
+For further click [here](https://github.com/kstch11/resnow/blob/main/Dokumentace.pdf)
  
